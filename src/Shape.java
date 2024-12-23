@@ -24,6 +24,7 @@ public class Shape {
         this.base = base;
         this.width = width;
         this.height = height;
+
     }
 
     public void setColor(String color) {
@@ -65,7 +66,6 @@ public class Shape {
     {
     System.out.println("I am a Shape.");
     }
-
 }
 
 
